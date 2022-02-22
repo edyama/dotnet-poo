@@ -1,0 +1,15 @@
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/bin/Debug/net6.0/dotnet-poo
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/bin/Debug/net6.0/dotnet-poo.deps.json
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/bin/Debug/net6.0/dotnet-poo.runtimeconfig.json
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/bin/Debug/net6.0/dotnet-poo.dll
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/bin/Debug/net6.0/dotnet-poo.pdb
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.csproj.AssemblyReference.cache
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.AssemblyInfoInputs.cache
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.AssemblyInfo.cs
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.csproj.CoreCompileInputs.cache
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.dll
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/refint/dotnet-poo.dll
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.pdb
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/dotnet-poo.genruntimeconfig.cache
+/home/tedmotta/Documentos/Yuji/GPT/Exercícios/dotnet-poo/obj/Debug/net6.0/ref/dotnet-poo.dll
